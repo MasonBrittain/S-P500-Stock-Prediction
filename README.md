@@ -17,6 +17,6 @@ Code that predicts S&P500 percentage change using machine learning techniques. I
 - Model Training: Utilizes XGBoost to train on historical Finance data. Evaluates model performance using metrics such as accuracy, precision, recall, and R^2-score.
 - Prediction: Makes predictions on the future value of the S&P 500 using a variable amount of historical data
 - Visualization: Visualizes data trends and model insights using Matplotlib and Seaborn.
-- 
+  
 # How to Use
 Setup Environment: Install required libraries using pip install -r requirements
