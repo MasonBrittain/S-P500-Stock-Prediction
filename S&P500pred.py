@@ -16,10 +16,10 @@ from sklearn.compose import ColumnTransformer
 import xgboost as xgb
 
 # SHAP for feature importance
-#try:
+# try:
 #    import shap
 #    SHAP_AVAILABLE = True
-#except ImportError:
+# except ImportError:
 #    SHAP_AVAILABLE = False
 #    print("SHAP not available. Install with: pip install shap")
 
